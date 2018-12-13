@@ -1,0 +1,35 @@
+.header
+{
+	background-color: yellow;
+	border: 3px solid black;
+	min-height: 100px;
+	overflow: hidden;
+
+}
+.body
+{
+	border: 5px solid black;
+	min-height: 300px;
+}
+.blockLevel
+{
+	background-color: pink;
+	min-height: 300px;
+	width:50%;
+	float: right;
+
+}
+.inline
+{
+	background-color: red;
+	min-height: 300px;
+	width:50%;
+	float:left;
+}
+.footer
+{
+	background-color:  lightblue;
+	border: 3px solid black;
+	height: 100px;
+	overflow: hidden;
+}
